@@ -1,5 +1,12 @@
 Star Sports
+- Sports 1
+- Sports 2
 -------------------
 Star Movies
+- Movies 1
+- Movies 2
 -------------------
 Star World
+- News English
+- News Regional
+- News Europe
